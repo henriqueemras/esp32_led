@@ -1,4 +1,5 @@
 Comando para executar a aplicação
+- Ativar o Zephyr (Na minha máquina source workspace/zephyrproject/.venv/bin/activate
 - Ir até a pasta zephyrproject/zephyr
 - Rodar o comando west build -b esp32_devkitc_wroom/esp32/procpu --sysbuild samples/basic/esp32_led --pristine
 (Para buildar a aplicação para o esp32)
