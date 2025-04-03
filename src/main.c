@@ -3,7 +3,7 @@
 #include <zephyr/drivers/gpio.h>
 #include <zephyr/timing/timing.h>
 #include <zephyr/devicetree.h>
-
+//teste de edição online
 #define LED_GREEN_PIN 2
 #define LED_YELLOW_PIN 4
 #define LED_RED_PIN 15
